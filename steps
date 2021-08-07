@@ -1,0 +1,10 @@
+Step by step install SQL:
+1. GO to https://www.mysql.com/downloads/
+2. at the buttom: MySQL Community(GPL)Downloads, click it.
+3. in new page: click: MySQL Community Server
+4. download the zip archive and install it.
+--------------------------------------------------------
+5. After install the Community MySQL Server, at the same page, find MySQL Workbench, click it, click the download link.
+6. under the Login big button, looking for "No thanks, just start my download." and click on it.
+7. After download, install it.
+------------------------------------------------------------ 
